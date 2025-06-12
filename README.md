@@ -1,33 +1,46 @@
-# 💼 Personal Portfolio Website
+# 🧑‍💻 Muhammad Shahid – Personal Portfolio Website
 
-This is a simple and responsive personal portfolio project developed as part of the **IBM Back-End JavaScript Developer** Professional Certificate on **Coursera**. This project is part of **Course 2: Introduction to HTML, CSS, & JavaScript**.
+Welcome to my personal portfolio website!  
+This project is not only a part of my learning journey through Coursera's **IBM Back-End JavaScript Developer** Professional Certificate, but it also represents **my own work, skills, and style** as a web developer.
 
-## 📚 Course Information
+## 🌐 About This Project
 
-- **Program:** IBM Back-End JavaScript Developer (Professional Certificate)
-- **Course:** Introduction to HTML, CSS, & JavaScript (Course 2 of 11)
-- **Platform:** Coursera
+This portfolio was built during **Course 2: Introduction to HTML, CSS, & JavaScript** of the IBM JavaScript Developer program on Coursera.
 
-## 📁 Project Overview
+While the project structure follows the course assignment, the content — such as my skills, projects, and personal information — has been fully customized to **reflect my own background, development experience, and creativity**.
 
-This portfolio project showcases basic web development skills, including:
+I intend to use this portfolio to showcase my skills whenever someone asks:  
+> _"Can I see your portfolio?"_
 
-- Responsive layout using **HTML** and **CSS**
-- Dynamic content manipulation with **JavaScript**
-- Structured sections: About Me, Skills, Projects, Recommendations, and a Form
-- A form to add new recommendations with a confirmation popup
+👉 I’ll share this very GitHub link, because it represents **my work**.
 
-## 🚀 Features
-
-- 💻 Clean and responsive design
-- 🧠 Skills listed with icons and experience
-- 📂 Project cards with descriptions and tech stack
-- 📝 Recommendations section (static + dynamically added)
-- ✅ Functional form with a success popup using JavaScript
-- 🔝 Scroll to top button
+---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - JavaScript (Vanilla)
+
+---
+
+## 📂 What's Inside
+
+- **About Me** – Brief intro about myself  
+- **Skills** – Technologies I work with  
+- **Projects** – 3 real/fictitious project summaries  
+- **Recommendations** – Sample testimonials + dynamic form to add more  
+- **Contact Section** – Users can submit their recommendation via form  
+
+---
+
+## 🚀 How to View This Portfolio
+
+### 🔗 Live Website (optional)
+If you deployed this, add your live link here:
+[View Portfolio Online](https://sakh823.github.io/my-portfolio/)
+
+### 🧪 View Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/portfolio-project.git
