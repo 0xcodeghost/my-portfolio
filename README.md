@@ -40,7 +40,4 @@ I intend to use this portfolio to showcase my skills whenever someone asks:
 If you deployed this, add your live link here:
 [View Portfolio Online](https://sakh823.github.io/my-portfolio/)
 
-### 🧪 View Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio-project.git
+
