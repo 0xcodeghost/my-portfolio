@@ -38,6 +38,6 @@ I intend to use this portfolio to showcase my skills whenever someone asks:
 
 ### 🔗 Live Website (optional)
 If you deployed this, add your live link here:
-[View Portfolio Online](https://sakh823.github.io/my-portfolio/)
+[View Portfolio Online](https://0xcodeghost.github.io/my-portfolio/)
 
 
